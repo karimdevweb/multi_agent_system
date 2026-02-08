@@ -1,6 +1,5 @@
 ﻿# multi_agent_system
 
-# Multi-Agent System
 
 This project demonstrates a multi-agent system using local LLMs with Ollama and Python. 
 It covers different aspects of agent orchestration, including:
@@ -18,3 +17,4 @@ It covers different aspects of agent orchestration, including:
 - Python packages:
 
   pip install ollama crewai llmlite python-dotenv
+
